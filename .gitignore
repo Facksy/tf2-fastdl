@@ -1,1 +1,11 @@
 *.bsp
+*.log
+*.vmf
+*.vmt
+*.vtf
+*.vtx
+*.mdl
+*.vvd
+*.phy
+*.wav
+*.mp3
